@@ -1,3 +1,2 @@
-Rahu
-da
-da
+clear
+cd
